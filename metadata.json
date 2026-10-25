@@ -1,0 +1,8 @@
+{
+  "name": "Remix AIR Management System",
+  "description": "Sistem administrasi pembayaran distribusi air berbasis Google Sheets + Google Apps Script untuk HP Android dan Komputer",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
